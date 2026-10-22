@@ -1,0 +1,6 @@
+{
+  "name": "TEMAN SEHAT ALBAMA",
+  "description": "Pemindai Kalori Makanan AI, kalkulator BMI & BMR, serta perencana menu diet sehat yang akurat, modern, dan minimalis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
